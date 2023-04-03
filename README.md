@@ -1,5 +1,6 @@
 # 💫 About Me: Hi i'am Rishav 
 🔭 I’m currently working on my skills <br>👯 I’m looking to collaborate in AI/Ml
+<br>
 🌱 I’m currently learning Python,Django,AI/ML<br>💬 Ask me about AI,ML,Linux<br>⚡ Fun fact I think i'm Human
 
 

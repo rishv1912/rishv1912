@@ -17,8 +17,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=recxo&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=RishavAnand1912)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=RishavAnand1912)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=recxo&icon=4&color=2)](https://visitcount.itsvg.in)

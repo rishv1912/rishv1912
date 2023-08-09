@@ -20,6 +20,6 @@
 [![](https://gtce.itsvg.in/api?username=RishavAnand1912)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=recxo&icon=4&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rishv1912&icon=4&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

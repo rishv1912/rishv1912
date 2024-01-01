@@ -1,7 +1,7 @@
 # 💫 About Me: Hi i'am Rishav 
-🔭 I’m currently working on my skills<br>
+🔭 I’m currently working on Machine Learning Projects<br>
 
-🌱 I’m currently learning AI/ML<br>💬 Ask me about AI,ML,Linux<br>⚡ Fun fact I think i'm Human <!-- <br>👯 I’m looking to collaborate in AI/ML -->
+🌱 I’m currently learning AI/ML<br>💬 Ask me about AI,ML,Linux<br>⚡ Fun fact I think i've life <!-- <br>👯 I’m looking to collaborate in AI/ML -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/recxo_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( [https://linkedin.com/in/rishav-anand-28621525b/](https://www.linkedin.com/in/rishav-anand-28621525b/))

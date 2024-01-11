@@ -1,7 +1,7 @@
 # 💫 About Me: Hi i'am Rishav 
 🔭 I’m currently working on Machine Learning Projects<br>
 
-🌱 I’m currently learning ML(Supervised Learning),Docker,Flask,End-to-End ML Project<br>💬 Ask me about AI,ML,Linux<br>⚡ Fun fact I think i've life <!-- <br>👯 I’m looking to collaborate in AI/ML -->
+🌱 I’m currently learning ML,Docker,End-to-End ML Project deployment<br>💬 Ask me about AI,ML,Linux<br>⚡ Fun fact I think i've life <!-- <br>👯 I’m looking to collaborate in AI/ML -->
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/anandrishv]) 
